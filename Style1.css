@@ -1,0 +1,21 @@
+body{
+    background-color: lightskyblue;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+h2{
+    font-size: 39px;
+    color:indigo;
+}
+p.marco{
+    border:3px solid rgb(236, 50, 17); /*Creamos un borde al rededor del texto de <p>, de 3 px y color solido rojo*/
+border-radius: 8px;/*Esquinas redondeadas al marco*/
+background-color: lightpink;/*Color de fondo*/
+text-align: left;/*Texto justificado, para acomodar el texto*/
+padding:20px;/*Distancia entre el texto y el marco*/
+font-family: Arial, Helvetica, sans-serif;/*Tipo de letras*/
+font-size:19px;
+width: 665px;
+}
